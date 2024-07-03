@@ -1,0 +1,21 @@
+.categories {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px 0;
+  }
+  
+  .category {
+    background-color: #f8f8f8;
+    padding: 20px;
+    text-align: center;
+    flex: 1;
+    margin: 0 10px;
+  }
+  
+  .category a {
+    text-decoration: none;
+    color: #000;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  
